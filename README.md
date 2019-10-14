@@ -63,8 +63,8 @@ To add the module to your Magento installation:
 
 - open cmd/shell and cd upto your magentoRootDirectory
 - then run below commands:-
-- composer config repositories.ced git https://github.com/cedcommerce/Magento2-Developer-Debug-Tool
-- composer require ced/magento2-developer-debug-tool:*
+- composer config repositories.ced git https://github.com/twocs/Magento2-Developer-Debug-Tool
+- composer require twocs/magento2-developer-debug-tool:*
 
 ## Authors, contributors and maintainers
 
